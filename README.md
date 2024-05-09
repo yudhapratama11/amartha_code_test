@@ -1,7 +1,11 @@
 # amartha_code_test
 
+Question no 1 
+
 System Design
 ![alt text](image.png)
+
+This design is focusing on functional MVP, which is possible to enhanced if needed. Some code logic also based on some business assumption
 
 Endpoints:
 1. /loans [POST]

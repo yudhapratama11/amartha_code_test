@@ -10,6 +10,7 @@ type LoanRepository struct {
 	loans map[int]*model.Loan
 }
 
+// Assumption if i have valid data
 func NewLoanRepository() LoanRepository {
 	return LoanRepository{
 		loans: map[int]*model.Loan{
